@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+👋 I'm currently working on  <br>A Personalized Medical Summary Generator that uses biomedical LLMs (Clinical-T5, BioGPT) and medical ontologies (MeSH, SNOMED CT) to create structured clinical summaries with Streamlit and LangChain.  <br><br>🤝 I'm looking to collaborate on  <br>AI and data science projects, especially those involving NLP, open-source LLMs, or intelligent automation tools.  <br><br>🌱 I'm currently learning  <br>Advanced data engineering, multimodal AI systems, and large-scale language model fine-tuning.  <br><br>💬 Ask me about  <br>Machine Learning, data processing pipelines, 3D modeling (SolidWorks), and how to bridge AI with real-world applications.  <br><br>📫 How to reach me  <br>nicolascottezabrate@gmail.com | [Portfolio](https://nicolascottez.vercel.app)  <br><br>⚡ Fun fact  <br>I train in boxing and climbing to stay focused and resilient 🥊🧗  <br><br>🎯 About Me  <br>I'm Nicolas Cottez-Abrate, a 4th-year Data & AI Engineering student at ECE Paris.  <br>I’m passionate about applied Artificial Intelligence, open-source technologies, and creating efficient, data-driven systems.  <br>Currently seeking a 4-month internship (April–August 2026) in Applied AI or Data Science.<br>
 
-<!--
-**Nicolas-cottez/Nicolas-cottez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ nicolas-cottez-abrate-a38838257) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nicolascottezabrate@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nicolas-cottez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nicolas-cottez&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-cottez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
