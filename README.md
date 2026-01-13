@@ -1,22 +1,22 @@
-# 💫 About Me:
-🎯 I'm Nicolas Cottez-Abrate — a 4th-year Data & AI Engineering student at **ECE Paris**.  
+# About Me:
+- I'm Nicolas Cottez-Abrate — a 4th-year Data & AI Engineering student at **ECE Paris**.  
 I'm passionate about **Artificial Intelligence**, **Deep Learning**, and **Large Language Models (LLMs)**.  
 I love building both small experiments and larger projects to sharpen my AI skills and explore how models truly work.  
 
-💡 I'm currently working on  
+- I'm currently working on  
 Creating and experimenting with various AI mini-projects — from data exploration to LLM-based assistants and early deep learning prototypes. My goal is to develop a solid understanding of how intelligent systems learn and adapt.  
 
-🌱 I'm currently learning  
+- I'm currently learning  
 Deep Learning fundamentals, neural network architectures, and the practical applications of modern LLMs (like Mistral or GPT-based models).  
 
-💬 Ask me about  
+- Ask me about  
 Machine Learning basics, Python development, and creative ways to apply AI in real-world scenarios.  
 
-📫 How to reach me  
+How to reach me  
 ✉️ [nicolascottezabrate@gmail.com](mailto:nicolascottezabrate@gmail.com)  
 🌐 [**Portfolio Website → nicolascottez.vercel.app**](https://nicolascottez.vercel.app)  
 
-⚡ Fun fact  
+- Fun fact  
 Outside of tech, I love **boxing**, **climbing**, and **strength training** 🥊🏋️‍♂️ — they keep me focused, disciplined, and balanced.  
 
 ---
